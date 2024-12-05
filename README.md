@@ -1,3 +1,2 @@
 # myicons
-
-# a few icons
+a few icons.
