@@ -1,2 +1,2 @@
-# myicons
-a few icons.
+# mini icons
+a few icons for surge, quantumult x...
